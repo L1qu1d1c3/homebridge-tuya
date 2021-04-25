@@ -30,12 +30,11 @@ const proxy = Proxy();
 const emitter = new EventEmitter();
 
 program
-    .name('tuya-lan find')
+    .name('tuya-lan-alejandro find')
     .option('--ip <ip>', 'IP address to listen for requests')
     .option('-p, --port <port>', 'port the proxy should listen on', 8060)
     .option('--schema', 'include schema in the output')
     .parse(process.argv);
-
 
 if (program.ip) {
     if (localIPs.includes(program.ip)) localIPs = [program.ip];
