@@ -25,6 +25,12 @@
                     ]
                   },
                   { 
+                    "title": "Contact Sensor",
+                    "enum": [
+                      "ContactSensor"
+                      ]
+                  },
+                  { 
                     "title": "Smart Plug / Barely Smart Power Strip",
                     "enum": [
                       "Outlet"
