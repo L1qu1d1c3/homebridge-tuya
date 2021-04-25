@@ -1,8 +1,6 @@
 {
-  "name": "homebridge-tuya",
-
-  "version": "2.1.0-beta.7",
-
+  "name": "homebridge-tuya-alejandro",
+  "version": "1.0",
   "description": "🏠 Offical Homebridge plugin for TuyAPI ",
   "main": "index.js",
   "scripts": {
@@ -15,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iRayanKhan/homebridge-tuya.git"
+    "url": "git+https://github.com/L1qu1d1c3/homebridge-tuya.git"
   },
   "author": "Rayan Khan",
   "license": "MIT",
