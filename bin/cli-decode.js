@@ -11,7 +11,7 @@ const async = require('async');
 let file;
 
 program
-    .name('tuya-lan-alejandro decode')
+    .name('tuya-lan decode')
     .option('--key <key>', 'device key')
     .option('--use <version>', 'override version string', '3.3')
     .arguments('<file>')

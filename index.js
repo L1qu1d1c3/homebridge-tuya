@@ -25,8 +25,8 @@ const ValveAccessory = require('./lib/ValveAccessory');
 const OilDiffuserAccessory = require('./lib/OilDiffuserAccessory');
 const ContactSensorAccessory = require('./lib/ContactSensorAccessory');
 
-const PLUGIN_NAME = 'homebridge-tuya-lan-alejandro';
-const PLATFORM_NAME = 'TuyaLanAlejandro';
+const PLUGIN_NAME = 'homebridge-tuya-lan';
+const PLATFORM_NAME = 'TuyaLan';
 
 const CLASS_DEF = {
     outlet: OutletAccessory,

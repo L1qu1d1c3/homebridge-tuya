@@ -1,15 +1,15 @@
 {
-  "name": "homebridge-tuya-alejandro",
-  "version": "2.1.0-beta.7",
+  "name": "homebridge-tuya",
+  "version": "2.1.0-beta.8",
   "description": "🏠 Offical Homebridge plugin for TuyAPI ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "tuya-lan-alejandro": "./bin/cli.js",
-    "tuya-lan-find-alejandro": "./bin/cli-find.js",
-    "tuya-lan-decode-alejandro": "./bin/cli-decode.js"
+    "tuya-lan": "./bin/cli.js",
+    "tuya-lan-find": "./bin/cli-find.js",
+    "tuya-lan-decode": "./bin/cli-decode.js"
   },
   "repository": {
     "type": "git",
